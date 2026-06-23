@@ -1,3 +1,4 @@
+#This code will creat an windows executable file (.exe file)
 import customtkinter as ctk
 from tkinter import filedialog
 from PIL import Image, ImageTk
